@@ -8,7 +8,6 @@ const RecipeContainer: React.FC<RecipeContainerType> = ({currentIndex}) => {
   if (loading) return <div>Loading...</div>;
   if (error) return <div>Error: {error}</div>;
   if(!recipes) return <></>;
-  
   return <RecipeImage recipe_img={recipes[currentIndex]?.img} className=""  />
 }
 
