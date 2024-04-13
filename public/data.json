@@ -76,7 +76,7 @@
             "preparation": "5 minutes",
             "cooking": "10 minutes"
         },
-        "img": "veggie_stir.webp",
+        "img": "/images/veggie_stir.webp",
         "ingredients": [
             "2 cups of mixed vegetables (e.g., bell peppers, broccoli, carrots, snap peas)",
             "1 tablespoon of soy sauce",
@@ -148,7 +148,7 @@
             "preparation": "5 minutes",
             "cooking": "15 minutes"
         },
-        "img": "/images/spaghetti_Olio_Recipe.webp",
+        "img": "/images/Spaghetti_Olio_Recipe.webp",
         "ingredients": [
             "200g of spaghetti",
             "4 cloves of garlic, thinly sliced",

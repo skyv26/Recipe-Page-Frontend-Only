@@ -9,6 +9,10 @@ export interface Nutrition {
     value: string;
 }
 
+export interface RecipeContainerType {
+    currentIndex: number;
+};
+
 export interface Recipe {
     recipe: string;
     img: string;
