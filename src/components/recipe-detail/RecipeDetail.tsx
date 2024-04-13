@@ -20,13 +20,14 @@ const RecipeDetail: React.FC<RecipeDetailProps> = ({
       </Col>
       <Col>
         <p>Preparation time</p>
-        <ul>
+        <ul className="list-disc pl-4">
           {Object.entries(preparationTime).map(([key, value]) => (
             <li key={key}>
-              <b>{key}</b>: {value}
+              <b>{key.charAt(0).toUpperCase() + key.slice(1)}</b>: {value}
             </li>
           ))}
         </ul>
+
       </Col>
     </Row>
   );

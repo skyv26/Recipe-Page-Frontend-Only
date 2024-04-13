@@ -1,7 +1,8 @@
 // types.ts
 
 // Nutrition type
-export interface Nutrition {
+export interface NutritionProps {
+    key?: string | number;
     name: string;
     value: string;
 }
@@ -34,7 +35,7 @@ export interface Recipe {
     preparationTime: PreparationTime;
     ingredients: string[];
     instructions: string[];
-    nutrition: Nutrition[];
+    nutrition: NutritionProps;
 }
 
 // Context type for Recipes
