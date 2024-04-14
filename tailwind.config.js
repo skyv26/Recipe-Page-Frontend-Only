@@ -23,6 +23,10 @@ export default {
         brown800: 'hsl(14, 45%, 36%)',
         rose800: 'hsl(332, 51%, 32%)',
         rose50: 'hsl(330, 100%, 98%)',
+      },
+      fontFamily: {
+        'outfit': ["Outfit", 'serif'],
+        'young_serif': ["Young Serif", "serif"],
       }
     },
   },
