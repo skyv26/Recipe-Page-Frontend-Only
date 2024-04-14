@@ -7,8 +7,8 @@ const Instructions = ({ instructions }: {
 }) => {
   return (
     <>
-    <Title level={3}>Instructions</Title>
-    <ol className="list-decimal pl-4">
+    <Title className='font-young_serif' level={3}>Instructions</Title>
+    <ol className="list-decimal pl-4 font-outfit">
       {
         instructions.map((each, index) => {
           const [heading, content] = each.split(":");

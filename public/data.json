@@ -1,6 +1,6 @@
 [
     {
-        "recipe": "Simple Omelette Recipe",
+        "recipeName": "Simple Omelette Recipe",
         "description": "An easy and quick dish, perfect for any meal. This classic omelette combines beaten eggs cooked to perfection, optionally filled with your choice of cheese, vegetables, or meats.",
         "preparationTime": {
             "total": "Approximately 10 minutes",
@@ -31,7 +31,7 @@
         }
     },
     {
-        "recipe": "Classic Pancakes Recipe",
+        "recipeName": "Classic Pancakes Recipe",
         "description": "A fluffy and delightful breakfast treat, these classic pancakes are easy to make and perfect with syrup, butter, or fresh fruits.",
         "preparationTime": {
             "total": "Approximately 20 minutes",
@@ -69,7 +69,7 @@
         }
     },
     {
-        "recipe": "Quick Veggie Stir-Fry Recipe",
+        "recipeName": "Quick Veggie Stir-Fry Recipe",
         "description": "A fast, nutritious dish loaded with fresh vegetables and savory flavors, perfect for lunch or dinner.",
         "preparationTime": {
             "total": "Approximately 15 minutes",
@@ -105,7 +105,7 @@
         }
     },
     {
-        "recipe": "Garlic Butter Shrimp Recipe",
+        "recipeName": "Garlic Butter Shrimp Recipe",
         "description": "Tender shrimp cooked in a flavorful garlic butter sauce, ready in minutes for a perfect appetizer or main dish.",
         "preparationTime": {
             "total": "Approximately 10 minutes",
@@ -141,14 +141,14 @@
         }
     },
     {
-        "recipe": "Spaghetti Aglio e Olio Recipe",
+        "recipeName": "Spaghetti Aglio e Olio Recipe",
         "description": "A simple and aromatic Italian pasta dish made with garlic, olive oil, and a touch of chili flakes.",
         "preparationTime": {
             "total": "Approximately 20 minutes",
             "preparation": "5 minutes",
             "cooking": "15 minutes"
         },
-        "img": "/images/Spaghetti_Olio_Recipe.webp",
+        "img": "/images/Spaghetti_Olio_recipe.webp",
         "ingredients": [
             "200g of spaghetti",
             "4 cloves of garlic, thinly sliced",
@@ -177,7 +177,7 @@
         }
     },
     {
-        "recipe": "Homemade Granola Recipe",
+        "recipeName": "Homemade Granola Recipe",
         "description": "A healthy and crunchy mix of oats, nuts, and honey, ideal for a wholesome breakfast or snack.",
         "preparationTime": {
             "total": "Approximately 30 minutes",
@@ -214,7 +214,7 @@
         }
     },
     {
-        "recipe": "Classic Tomato Soup Recipe",
+        "recipeName": "Classic Tomato Soup Recipe",
         "description": "A comforting and creamy tomato soup, perfect for chilly days or a light meal. Serve with croutons or grilled cheese.",
         "preparationTime": {
             "total": "Approximately 30 minutes",
@@ -252,7 +252,7 @@
         }
     },
     {
-        "recipe": "Quick Avocado Toast Recipe",
+        "recipeName": "Quick Avocado Toast Recipe",
         "description": "A simple and healthy breakfast or snack option featuring creamy avocado on crispy bread with optional toppings.",
         "preparationTime": {
             "total": "Approximately 5 minutes",
@@ -285,7 +285,7 @@
         }
     },
     {
-        "recipe": "Grilled Chicken Salad Recipe",
+        "recipeName": "Grilled Chicken Salad Recipe",
         "description": "A fresh and protein-packed salad featuring grilled chicken, crisp greens, and a light dressing.",
         "preparationTime": {
             "total": "Approximately 25 minutes",
@@ -323,7 +323,7 @@
         }
     },
     {
-        "recipe": "Banana Smoothie Recipe",
+        "recipeName": "Banana Smoothie Recipe",
         "description": "A creamy and nutritious smoothie made with bananas, milk, and a touch of honey. Great for breakfast or a snack.",
         "preparationTime": {
             "total": "Approximately 5 minutes",
@@ -354,7 +354,7 @@
         }
     },
     {
-        "recipe": "Classic French Toast Recipe",
+        "recipeName": "Classic French Toast Recipe",
         "description": "A rich and golden breakfast classic made by dipping bread in a sweet egg mixture and frying to perfection.",
         "preparationTime": {
             "total": "Approximately 15 minutes",

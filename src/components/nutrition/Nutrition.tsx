@@ -10,11 +10,13 @@ const Nutrition = ({ nutrition }: { nutrition: NutritionProps }) => {
     {
       title: "Nutrient",
       dataIndex: "name",
+      className: 'font-outfit',
       key: "name",
     },
     {
       title: "Value",
       dataIndex: "value",
+      className: 'font-outfit',
       key: "value",
     },
   ];
@@ -32,12 +34,12 @@ const Nutrition = ({ nutrition }: { nutrition: NutritionProps }) => {
 
   return (
     <div>
-      <Title level={4}>Nutrition</Title>
-      <p>
+      <Title className='font-young_serif' level={4}>Nutrition</Title>
+      <p className="font-outfit">
         The table below shows nutritional values per serving without the
         additional fillings.
       </p>
-      <Table dataSource={data} showHeader={false} columns={columns} pagination={false} />
+      <Table className="nutrition-table" dataSource={data} showHeader={false} columns={columns} pagination={false} />
     </div>
   );
 };

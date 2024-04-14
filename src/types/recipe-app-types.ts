@@ -29,7 +29,7 @@ export interface RecipeImageProps {
 
 // Recipe structure
 export interface Recipe {
-    name: string; // Changed "recipe" to "name" for clarity
+    recipeName: string; // Changed "recipe" to "name" for clarity
     img: string; // Changed "img" to "image" for consistency
     description: string;
     preparationTime: PreparationTime;

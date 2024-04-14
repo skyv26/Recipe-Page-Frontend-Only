@@ -15,7 +15,7 @@ const RecipeContainer: React.FC<RecipeContainerProps> = ({currentIndex}) => {
   return <>
     <RecipeImage recipeImg={recipes[currentIndex]?.img} className=""  />
     <div>
-      <RecipeDetail recipeName={recipes[currentIndex]?.name} recipeDescription={recipes[currentIndex]?.description} preparationTime={recipes[currentIndex]?.preparationTime} />
+      <RecipeDetail recipeName={recipes[currentIndex]?.recipeName} recipeDescription={recipes[currentIndex]?.description} preparationTime={recipes[currentIndex]?.preparationTime} />
       <Ingredients ingredients={recipes[currentIndex]?.ingredients} />
       <Instructions instructions={recipes[currentIndex]?.instructions} />
       <Nutrition nutrition={recipes[currentIndex]?.nutrition} />
