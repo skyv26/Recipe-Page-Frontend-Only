@@ -13,8 +13,8 @@ const RecipeContainer: React.FC<RecipeContainerProps> = ({currentIndex}) => {
   if (error) return <div>Error: {error}</div>;
   if(!recipes) return <></>;
   return <>
-    <RecipeImage recipeImg={recipes[currentIndex]?.img} className=""  />
-    <div>
+    <RecipeImage recipeImg={recipes[currentIndex]?.img} className="w-full h-full"  />
+    <div className="p-6 bg-white">
       <RecipeDetail recipeName={recipes[currentIndex]?.recipeName} recipeDescription={recipes[currentIndex]?.description} preparationTime={recipes[currentIndex]?.preparationTime} />
       <Ingredients ingredients={recipes[currentIndex]?.ingredients} />
       <Instructions instructions={recipes[currentIndex]?.instructions} />
