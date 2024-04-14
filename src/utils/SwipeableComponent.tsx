@@ -62,7 +62,7 @@ const SwipeComponent: React.FC<SwipeableComponentProps> = ({
 
   return (
     <div
-      className="w-screen h-screen bg-red-400"
+      className="w-screen h-screen"
       onTouchStart={handleStart}
       onTouchEnd={handleEnd}
       onMouseDown={handleStart}

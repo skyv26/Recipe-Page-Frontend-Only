@@ -1,11 +1,11 @@
 import { Image } from 'antd';
 import { RecipeImageProps } from '../../types/recipe-app-types';
 
-const RecipeImage: React.FC<RecipeImageProps> = ({recipe_img, className}) => {
+const RecipeImage: React.FC<RecipeImageProps> = ({recipeImg, className}) => {
   return (
     <Image
     className={className}
-    src={recipe_img}
+    src={recipeImg}
   />
   )
 }
