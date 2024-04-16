@@ -10,13 +10,13 @@ const Nutrition = ({ nutrition }: { nutrition: NutritionProps }) => {
     {
       title: "Nutrient",
       dataIndex: "name",
-      className: 'font-outfit',
+      className: 'font-outfit text-stone600',
       key: "name",
     },
     {
       title: "Value",
       dataIndex: "value",
-      className: 'font-outfit',
+      className: 'font-outfit text-brown800 font-bold',
       key: "value",
     },
   ];
@@ -34,8 +34,8 @@ const Nutrition = ({ nutrition }: { nutrition: NutritionProps }) => {
 
   return (
     <div>
-      <Title className='font-young_serif' level={4}>Nutrition</Title>
-      <p className="font-outfit">
+      <Title className='font-young_serif !text-brown800' level={4}>Nutrition</Title>
+      <p className="font-outfit text-stone600">
         The table below shows nutritional values per serving without the
         additional fillings.
       </p>
