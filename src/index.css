@@ -6,11 +6,6 @@
   body {
     @apply bg-stone100 relative z-0;
   }
-
-  body::after {
-    content: '';
-    @apply absolute bg-m-design bg-no-repeat opacity-40 z-10 w-full h-full top-0 left-0;
-  }
 }
 
 /* styles.css */
