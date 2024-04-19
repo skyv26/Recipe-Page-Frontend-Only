@@ -17,7 +17,7 @@ const RecipeDetail: React.FC<RecipeDetailProps> = ({
         </Title>
         <p className="font-outfit text-stone600 text-base min-[375px]:tracking-normal">{recipeDescription}</p>
       </div>
-      <div className="bg-rose50 p-6 min-[375px]:py-5 flex flex-col gap-4 min-[375px]:gap-2">
+      <div className="bg-rose50 rounded-[12px] p-6 min-[375px]:py-5 flex flex-col gap-4 min-[375px]:gap-2">
         <p className="font-outfit font-bold text-rose800 min-[375px]:text-[20px]">Preparation time</p>
         <ul className="flex flex-col gap-2 list-disc pl-4 font-outfit marker:text-rose800 min-[375px]:marker:text-[12px] min-[375px]:pl-6 min-[375px]:gap-2 min-[375px]:text-base">
           {Object.entries(preparationTime).map(([key, value]) => (
