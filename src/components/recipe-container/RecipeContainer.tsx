@@ -12,8 +12,8 @@ const RecipeContainer: React.FC<RecipeContainerProps> = ({currentIndex}) => {
   if (loading) return <div>Loading...</div>;
   if (error) return <div>Error: {error}</div>;
   if(!recipes) return <></>;
-  return <div className="bg-white min-[580px]:rounded-[24px] min-[580px]:p-[40px] min-[580px]:w-10/12 min-[580px]:mx-auto min-[580px]:mt-32">
-    <RecipeImage recipeImg={recipes[currentIndex]?.img} className="!w-full !h-[171px] !object-cover min-[580px]:!h-auto min-[580px]:rounded-[12px]"  />
+  return <div className="bg-white min-[580px]:rounded-[24px] min-[580px]:p-[40px] min-[580px]:w-10/12 min-[580px]:mx-auto min-[580px]:my-32">
+    <RecipeImage recipeImg={recipes[currentIndex]?.img} className="!w-full !min-h-[171px] min-[580px]:!h-auto min-[580px]:rounded-[12px]"  />
     <div className="p-5 min-[375px]:px-8 min-[375px]:py-7 bg-white min-[580px]:px-0">
       <RecipeDetail recipeName={recipes[currentIndex]?.recipeName} recipeDescription={recipes[currentIndex]?.description} preparationTime={recipes[currentIndex]?.preparationTime} />
       <Ingredients ingredients={recipes[currentIndex]?.ingredients} />
