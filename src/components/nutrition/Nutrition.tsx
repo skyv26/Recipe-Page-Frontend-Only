@@ -33,7 +33,7 @@ const Nutrition = ({ nutrition }: { nutrition: NutritionProps }) => {
   console.log(data)
 
   return (
-    <div className="mt-5 flex flex-col min-[375px]:mt-6 pb-5 min-[375px]:pb-8 min-[375px]:gap-1">
+    <div className="mt-5 flex flex-col min-[375px]:mt-6 pb-5 min-[375px]:pb-8 min-[375px]:gap-1 min-[580px]:pb-0">
       <Title className='font-young_serif !font-normal !text-brown800 !text-[28px]' level={4}>Nutrition</Title>
       <p className="font-outfit text-stone600">
         The table below shows nutritional values per serving without the
