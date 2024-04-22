@@ -11,8 +11,8 @@ const RecipeDetail: React.FC<RecipeDetailProps> = ({
 }) => {
   return (
     <div className="flex flex-col mt-3 gap-4 min-[375px]:gap-8">
-      <div className="flex flex-col gap-1">
-        <Title level={1} className="font-young_serif !text-stone900 !text-[30px] !font-normal min-[375px]:!text-[2.231rem] !leading-[1.05] md:!text-[40px]">
+      <div className="flex flex-col gap-1 md:gap-6">
+        <Title level={1} className="font-young_serif !text-stone900 !text-[30px] !font-normal min-[375px]:!text-[2.231rem] !leading-[1.05] md:!text-[40px] md:!m-0">
           {recipeName}
         </Title>
         <p className="font-outfit text-stone600 text-base min-[375px]:tracking-normal">{recipeDescription}</p>
