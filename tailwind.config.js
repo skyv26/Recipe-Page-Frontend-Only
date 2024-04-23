@@ -28,10 +28,6 @@ export default {
         'outfit': ["Outfit", 'serif'],
         'young_serif': ["Young Serif", "serif"],
       },
-      backgroundImage: {
-        'design': "url('./src/assets/desktop.jpg')",
-        'm-design': "url('./src/assets/Mobile.jpg')",
-      }
     },
   },
   plugins: [],
