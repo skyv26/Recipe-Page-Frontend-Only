@@ -20,6 +20,7 @@ const RecipeDropDown: React.FC<RecipeDropDownProps> = ({ currentIndex, setCurren
 
   return (
     <Select
+    aria-label="recipe dropdown"
       className="hidden absolute top-5 right-5 font-outfit text-stone900 font-semibold md:block"
       value={currentIndex}
       style={{ width: 260 }}
