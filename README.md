@@ -47,10 +47,7 @@
 
 ### Key Features <a name="key-features"></a>
 
-> We can do CRUD operations on following things:
-
-- **Category**
-- **Expense**
+> We can do swupe left or right to change the recipe.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -60,11 +57,7 @@
 
 > Link to your deployed project.
 
-- [Budget App Live Link](https://skyv-budget-app.onrender.com/)
-
-> Presentation
-
-- [Loom Video](https://www.loom.com/share/d88f48378df045b68322c5a70ec6df5f)
+- [Budget App Live Link](https://skyv26.github.io/Recipe-Page-Frontend-Only/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
