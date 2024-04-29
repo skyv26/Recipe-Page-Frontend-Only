@@ -22,22 +22,24 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Budget App <a name="about-project"></a>
+# 📖 Recipe Page <a name="about-project"></a>
 
-> A budgeting app is a software application that you may access from your computer, tablet or mobile device to track your finances, such as income, savings, debt payoff, or investing. Budgeting apps often will sync with your financial accounts to give you an overview in real-time when finances change.
+> The app displays a detailed recipe, including preparation time, ingredients, step-by-step instructions, and nutritional information. It features a responsive design, ensuring usability across devices. I implemented reusable components, dynamic rendering, and styled the interface using Tailwind CSS for a clean and modern look. This project allowed me to sharpen my skills in React, state management, and handling structured data, enhancing both functionality and user experience.
 
-**[Budget App]** is a ruby blog website.
+**[Recipe Page]** is a react app.
 
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
 
-> Blog App is backend project
+> Recipe Page App is frontend project
 
 <details>
-<summary>Database</summary>
+<summary>Front-end</summary>
   <ul>
-    <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
+    <li><a href="https://react.dev/">React</a></li>
+    <li><a href="https://tailwindcss.com/docs">TailwindCSS</a></li>
+    <li><a href="https://ant.design/components">Ant Design</a></li>
   </ul>
 </details>
 
