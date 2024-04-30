@@ -22,11 +22,9 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Recipe Page <a name="about-project"></a>
+# 🍲 Recipe Page <a name="about-project"></a>
 
 > The app displays a detailed recipe, including preparation time, ingredients, step-by-step instructions, and nutritional information. It features a responsive design, ensuring usability across devices. I implemented reusable components, dynamic rendering, and styled the interface using Tailwind CSS for a clean and modern look. This project allowed me to sharpen my skills in React, state management, and handling structured data, enhancing both functionality and user experience.
-
-**[Recipe Page]** is a react app.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -57,7 +55,7 @@
 
 > Link to your deployed project.
 
-- [Budget App Live Link](https://skyv26.github.io/Recipe-Page-Frontend-Only/)
+- [Recipe Page Live Link](https://skyv26.github.io/Recipe-Page-Frontend-Only/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -73,40 +71,28 @@ To get a local copy up and running, follow these steps.
 
 In order to run this project you need:
 
-`gem install rails`
+`yarn install`
 
 
 ### Setup
 
 Clone this repository to your desired folder:
 
-`git clone https://github.com/skyv26/budger-app.git`
+`git clone https://github.com/skyv26/Recipe-Page-Frontend-Only.git`
 
 then
 
-`cd budget-app`
+`cd Recipe-Page-Frontend-Only`
 
 ### Install
 
 Install this project with:
 
-`bundle install`
+`yarn install Or npm i`
 
 ### Usage
 
-`rails s`
-
-### Run Linters
-
-To run tests, run the following command:
-
-`rubocop`
-
-OR
-
-`rubocop -a` 
-
-**it will automatically correct the errors**
+`yarn dev or npm run dev`
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -128,10 +114,7 @@ OR
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-> In upcoming weeks I will add some features as mentioned below
-
-- [ ] **API & Documentation**
-- [ ] **High-Fidelity UI**
+> N/A
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -159,9 +142,9 @@ If you like this project then please give a ⭐️ and also share your feedback 
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-❤️ [RoR Documentation](https://guides.rubyonrails.org)
-❤️ Original design idea by [Gregoire Vella on Behance](https://www.behance.net/gregoirevella)
-❤️ [Creative Licence](https://creativecommons.org/wp-content/themes/cc/images/cc.logo.white.svg)
+- ❤️ [Ant Design](https://ant.design/)
+- ❤️ [TailwindCSS](https://tailwindcss.com/docs)
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LICENSE -->
