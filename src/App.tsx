@@ -1,35 +1,33 @@
-import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
-import './App.css'
+import { useState } from "react";
+// import { useSwipeable } from "react-swipeable";
+import RecipeContainer from "./components/recipe-container/RecipeContainer";
+import SwipeComponent from "./utils/SwipeableComponent";
 
-function App() {
-  const [count, setCount] = useState(0)
+const App = () => {
+  const [currentIndex, setCurrentIndex] = useState<number>(0);
+  
+  // const handlers = useSwipeable({
+  //   onSwipedLeft: () => {
+  //     setCurrentIndex((prev: number) => {
+  //     if(prev > 9) {
+  //       return 10;
+  //     }
+  //     return prev + 1;
+  //   })},
+  //   onSwipedRight: () => {
+  //     setCurrentIndex((prev: number) => {
+  //       if(prev <= 0) {
+  //         return 0;
+  //       }
+  //       return prev - 1;
+  //     })
+  //   }
+  // });
+  
+  return <SwipeComponent currentIndex={currentIndex} setCurrentIndex={setCurrentIndex}>
+      <RecipeContainer currentIndex={currentIndex} />
+    </SwipeComponent>
+} 
+  
 
-  return (
-    <>
-      <div>
-        <a href="https://vite.dev" target="_blank">
-          <img src={viteLogo} className="logo" alt="Vite logo" />
-        </a>
-        <a href="https://react.dev" target="_blank">
-          <img src={reactLogo} className="logo react" alt="React logo" />
-        </a>
-      </div>
-      <h1>Vite + React</h1>
-      <div className="card">
-        <button onClick={() => setCount((count) => count + 1)}>
-          count is {count}
-        </button>
-        <p>
-          Edit <code>src/App.tsx</code> and save to test HMR
-        </p>
-      </div>
-      <p className="read-the-docs">
-        Click on the Vite and React logos to learn more
-      </p>
-    </>
-  )
-}
-
-export default App
+export default App;
