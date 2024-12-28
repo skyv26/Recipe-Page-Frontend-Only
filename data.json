@@ -1,0 +1,391 @@
+[
+    {
+        "recipeName": "Simple Omelette Recipe",
+        "description": "An easy and quick dish, perfect for any meal. This classic omelette combines beaten eggs cooked to perfection, optionally filled with your choice of cheese, vegetables, or meats.",
+        "preparationTime": {
+            "total": "Approximately 10 minutes",
+            "preparation": "5 minutes",
+            "cooking": "5 minutes"
+        },
+        "img": "./images/image-omelette.webp",
+        "ingredients": [
+            "2-3 large eggs",
+            "Salt, to taste",
+            "Pepper, to taste",
+            "1 tablespoon of butter or oil",
+            "Optional fillings: cheese, diced vegetables, cooked meats, herbs"
+        ],
+        "instructions": [
+            "Beat the eggs: In a bowl, beat the eggs with a pinch of salt and pepper until they are well mixed. You can add a tablespoon of water or milk for a fluffier texture.",
+            "Heat the pan: Place a non-stick frying pan over medium heat and add butter or oil.",
+            "Cook the omelette: Once the butter is melted and bubbling, pour in the eggs. Tilt the pan to ensure the eggs evenly coat the surface.",
+            "Add fillings (optional): When the eggs begin to set at the edges but are still slightly runny in the middle, sprinkle your chosen fillings over one half of the omelette.",
+            "Fold and serve: As the omelette continues to cook, carefully lift one edge and fold it over the fillings. Let it cook for another minute, then slide it onto a plate.",
+            "Enjoy: Serve hot, with additional salt and pepper if needed."
+        ],
+        "nutrition": {
+            "calories": "277kcal",
+            "carbs": "0g",
+            "protein": "20g",
+            "fat": "22g"
+        }
+    },
+    {
+        "recipeName": "Classic Pancakes Recipe",
+        "description": "A fluffy and delightful breakfast treat, these classic pancakes are easy to make and perfect with syrup, butter, or fresh fruits.",
+        "preparationTime": {
+            "total": "Approximately 20 minutes",
+            "preparation": "10 minutes",
+            "cooking": "10 minutes"
+        },
+        "img": "/images/classic_pancake.webp",
+        "ingredients": [
+            "1 cup of all-purpose flour",
+            "2 tablespoons of sugar",
+            "1 teaspoon of baking powder",
+            "1/2 teaspoon of baking soda",
+            "1/4 teaspoon of salt",
+            "1 cup of milk",
+            "1 large egg",
+            "2 tablespoons of melted butter or oil"
+        ],
+        "instructions": [
+            "Mix dry ingredients: In a large bowl, whisk together flour, sugar, baking powder, baking soda, and salt.",
+            "Combine wet ingredients: In a separate bowl, mix milk, egg, and melted butter.",
+            "Make the batter: Gradually add the wet mixture to the dry ingredients and stir until smooth.",
+            "Heat the pan: Warm a non-stick pan over medium heat and lightly grease with oil or butter.",
+            "Cook the pancakes: Pour 1/4 cup of batter onto the pan for each pancake. Cook until bubbles appear on the surface, then flip and cook until golden brown.",
+            "Serve: Stack pancakes and serve warm with your favorite toppings."
+        ],
+        "nutrition": {
+            "calories": "150kcal",
+            "carbs": "24g",
+            "protein": "4g",
+            "fat": "4g",
+            "fiber": "1g",
+            "sugar": "5g",
+            "sodium": "200mg",
+            "cholesterol": "35mg"
+        }
+    },
+    {
+        "recipeName": "Quick Veggie Stir-Fry Recipe",
+        "description": "A fast, nutritious dish loaded with fresh vegetables and savory flavors, perfect for lunch or dinner.",
+        "preparationTime": {
+            "total": "Approximately 15 minutes",
+            "preparation": "5 minutes",
+            "cooking": "10 minutes"
+        },
+        "img": "/images/veggie_stir.webp",
+        "ingredients": [
+            "2 cups of mixed vegetables (e.g., bell peppers, broccoli, carrots, snap peas)",
+            "1 tablespoon of soy sauce",
+            "1 teaspoon of sesame oil",
+            "1 tablespoon of cooking oil",
+            "1 teaspoon of minced garlic",
+            "1 teaspoon of minced ginger"
+        ],
+        "instructions": [
+            "Prepare vegetables: Wash and chop vegetables into bite-sized pieces.",
+            "Heat the pan: Warm cooking oil in a large pan or wok over medium-high heat.",
+            "Cook garlic and ginger: Add minced garlic and ginger, sautéing until fragrant.",
+            "Add vegetables: Stir-fry the vegetables for 5-7 minutes, stirring frequently.",
+            "Add seasoning: Drizzle soy sauce and sesame oil over the vegetables, mixing well.",
+            "Serve: Remove from heat and serve hot as a side or with rice."
+        ],
+        "nutrition": {
+            "calories": "120kcal",
+            "carbs": "10g",
+            "protein": "2g",
+            "fat": "8g",
+            "fiber": "3g",
+            "sugar": "2g",
+            "sodium": "350mg",
+            "cholesterol": "0mg"
+        }
+    },
+    {
+        "recipeName": "Garlic Butter Shrimp Recipe",
+        "description": "Tender shrimp cooked in a flavorful garlic butter sauce, ready in minutes for a perfect appetizer or main dish.",
+        "preparationTime": {
+            "total": "Approximately 10 minutes",
+            "preparation": "5 minutes",
+            "cooking": "5 minutes"
+        },
+        "img": "/images/garlic_butter_shrimp.webp",
+        "ingredients": [
+            "1 pound of shrimp, peeled and deveined",
+            "2 tablespoons of butter",
+            "2 cloves of garlic, minced",
+            "1 tablespoon of lemon juice",
+            "Salt and pepper, to taste",
+            "Optional garnish: chopped parsley"
+        ],
+        "instructions": [
+            "Season shrimp: Sprinkle shrimp with salt and pepper.",
+            "Melt butter: Heat butter in a skillet over medium heat until melted.",
+            "Cook garlic: Add minced garlic and sauté for 30 seconds.",
+            "Add shrimp: Place shrimp in the skillet and cook for 2-3 minutes on each side, until pink and opaque.",
+            "Finish with lemon: Drizzle lemon juice over the shrimp and stir to coat.",
+            "Serve: Garnish with parsley and serve immediately."
+        ],
+        "nutrition": {
+            "calories": "180kcal",
+            "carbs": "1g",
+            "protein": "22g",
+            "fat": "9g",
+            "fiber": "0g",
+            "sugar": "0g",
+            "sodium": "200mg",
+            "cholesterol": "170mg"
+        }
+    },
+    {
+        "recipeName": "Spaghetti Aglio e Olio Recipe",
+        "description": "A simple and aromatic Italian pasta dish made with garlic, olive oil, and a touch of chili flakes.",
+        "preparationTime": {
+            "total": "Approximately 20 minutes",
+            "preparation": "5 minutes",
+            "cooking": "15 minutes"
+        },
+        "img": "/images/Spaghetti_Olio_Recipe.webp",
+        "ingredients": [
+            "200g of spaghetti",
+            "4 cloves of garlic, thinly sliced",
+            "1/4 cup of olive oil",
+            "1 teaspoon of chili flakes",
+            "Salt, to taste",
+            "Optional: chopped parsley, grated Parmesan"
+        ],
+        "instructions": [
+            "Cook spaghetti: Boil spaghetti in salted water until al dente. Reserve 1/4 cup of pasta water.",
+            "Heat olive oil: In a pan, warm olive oil over medium heat.",
+            "Cook garlic: Add garlic slices and sauté until golden brown.",
+            "Add chili flakes: Stir in chili flakes and cook for 30 seconds.",
+            "Combine with pasta: Toss the cooked spaghetti in the pan, adding reserved pasta water if needed.",
+            "Serve: Garnish with parsley and Parmesan, if desired."
+        ],
+        "nutrition": {
+            "calories": "310kcal",
+            "carbs": "50g",
+            "protein": "8g",
+            "fat": "10g",
+            "fiber": "2g",
+            "sugar": "1g",
+            "sodium": "150mg",
+            "cholesterol": "0mg"
+        }
+    },
+    {
+        "recipeName": "Homemade Granola Recipe",
+        "description": "A healthy and crunchy mix of oats, nuts, and honey, ideal for a wholesome breakfast or snack.",
+        "preparationTime": {
+            "total": "Approximately 30 minutes",
+            "preparation": "10 minutes",
+            "cooking": "20 minutes"
+        },
+        "img": "/images/granola.webp",
+        "ingredients": [
+            "2 cups of rolled oats",
+            "1/2 cup of chopped nuts (e.g., almonds, walnuts)",
+            "1/4 cup of honey or maple syrup",
+            "2 tablespoons of coconut oil",
+            "1 teaspoon of vanilla extract",
+            "1/2 teaspoon of cinnamon",
+            "Optional: dried fruits, chocolate chips"
+        ],
+        "instructions": [
+            "Preheat oven: Set oven to 325°F (165°C) and line a baking sheet with parchment paper.",
+            "Mix ingredients: Combine oats, nuts, honey, coconut oil, vanilla, and cinnamon in a bowl.",
+            "Spread on sheet: Evenly spread the mixture onto the prepared baking sheet.",
+            "Bake: Bake for 20 minutes, stirring halfway through, until golden brown.",
+            "Cool: Let the granola cool completely before adding optional ingredients.",
+            "Serve or store: Store in an airtight container for up to 2 weeks."
+        ],
+        "nutrition": {
+            "calories": "200kcal",
+            "carbs": "25g",
+            "protein": "5g",
+            "fat": "9g",
+            "fiber": "3g",
+            "sugar": "10g",
+            "sodium": "40mg",
+            "cholesterol": "0mg"
+        }
+    },
+    {
+        "recipeName": "Classic Tomato Soup Recipe",
+        "description": "A comforting and creamy tomato soup, perfect for chilly days or a light meal. Serve with croutons or grilled cheese.",
+        "preparationTime": {
+            "total": "Approximately 30 minutes",
+            "preparation": "10 minutes",
+            "cooking": "20 minutes"
+        },
+        "img": "/images/Classic_Tomato_Soup_image.webp",
+        "ingredients": [
+            "2 tablespoons of olive oil",
+            "1 onion, chopped",
+            "2 cloves of garlic, minced",
+            "4 cups of chopped tomatoes (fresh or canned)",
+            "2 cups of vegetable broth",
+            "1 teaspoon of sugar",
+            "Salt and pepper, to taste",
+            "Optional: heavy cream or milk for creaminess"
+        ],
+        "instructions": [
+            "Sauté onion and garlic: Heat olive oil in a pot over medium heat. Add onion and garlic, cooking until softened.",
+            "Add tomatoes: Stir in the tomatoes and cook for 5 minutes.",
+            "Simmer: Add vegetable broth, sugar, salt, and pepper. Bring to a boil, then reduce heat and simmer for 15 minutes.",
+            "Blend: Use an immersion blender to puree the soup until smooth.",
+            "Finish with cream (optional): Stir in heavy cream or milk for added creaminess.",
+            "Serve: Enjoy hot with croutons or bread."
+        ],
+        "nutrition": {
+            "calories": "150kcal",
+            "carbs": "18g",
+            "protein": "3g",
+            "fat": "8g",
+            "fiber": "3g",
+            "sugar": "10g",
+            "sodium": "400mg",
+            "cholesterol": "5mg"
+        }
+    },
+    {
+        "recipeName": "Quick Avocado Toast Recipe",
+        "description": "A simple and healthy breakfast or snack option featuring creamy avocado on crispy bread with optional toppings.",
+        "preparationTime": {
+            "total": "Approximately 5 minutes",
+            "preparation": "5 minutes",
+            "cooking": "0 minutes"
+        },
+        "img": "/images/Quick_Avocado_Toast_Recipe.webp",
+        "ingredients": [
+            "1 ripe avocado",
+            "2 slices of bread (toasted)",
+            "Salt and pepper, to taste",
+            "Optional toppings: chili flakes, lemon juice, sliced tomatoes, or a poached egg"
+        ],
+        "instructions": [
+            "Prepare avocado: Cut the avocado in half, remove the pit, and scoop out the flesh into a bowl.",
+            "Mash: Mash the avocado with a fork, adding salt and pepper to taste.",
+            "Assemble: Spread the mashed avocado onto toasted bread slices.",
+            "Add toppings: Sprinkle with chili flakes, squeeze lemon juice, or add your choice of toppings.",
+            "Serve: Enjoy immediately."
+        ],
+        "nutrition": {
+            "calories": "250kcal",
+            "carbs": "20g",
+            "protein": "5g",
+            "fat": "18g",
+            "fiber": "8g",
+            "sugar": "1g",
+            "sodium": "150mg",
+            "cholesterol": "0mg"
+        }
+    },
+    {
+        "recipeName": "Grilled Chicken Salad Recipe",
+        "description": "A fresh and protein-packed salad featuring grilled chicken, crisp greens, and a light dressing.",
+        "preparationTime": {
+            "total": "Approximately 25 minutes",
+            "preparation": "10 minutes",
+            "cooking": "15 minutes"
+        },
+        "img": "/images/Grilled_Chicken_Salad_Recipe.webp",
+        "ingredients": [
+            "2 boneless, skinless chicken breasts",
+            "4 cups of mixed greens (e.g., lettuce, spinach, arugula)",
+            "1 cup of cherry tomatoes, halved",
+            "1/2 cucumber, sliced",
+            "1/4 cup of olive oil",
+            "2 tablespoons of balsamic vinegar",
+            "Salt and pepper, to taste",
+            "Optional: croutons, shredded cheese"
+        ],
+        "instructions": [
+            "Season chicken: Sprinkle chicken breasts with salt and pepper.",
+            "Grill chicken: Heat a grill pan over medium heat and cook chicken for 6-8 minutes per side, until fully cooked. Let rest for 5 minutes before slicing.",
+            "Prepare dressing: Whisk together olive oil, balsamic vinegar, salt, and pepper.",
+            "Assemble salad: In a large bowl, combine greens, cherry tomatoes, cucumber, and optional toppings.",
+            "Add chicken: Top the salad with sliced grilled chicken.",
+            "Serve: Drizzle with dressing and serve immediately."
+        ],
+        "nutrition": {
+            "calories": "320kcal",
+            "carbs": "10g",
+            "protein": "30g",
+            "fat": "18g",
+            "fiber": "3g",
+            "sugar": "4g",
+            "sodium": "200mg",
+            "cholesterol": "70mg"
+        }
+    },
+    {
+        "recipeName": "Banana Smoothie Recipe",
+        "description": "A creamy and nutritious smoothie made with bananas, milk, and a touch of honey. Great for breakfast or a snack.",
+        "preparationTime": {
+            "total": "Approximately 5 minutes",
+            "preparation": "5 minutes",
+            "cooking": "0 minutes"
+        },
+        "img": "/images/Banana_Smoothie_Recipe.webp",
+        "ingredients": [
+            "2 ripe bananas",
+            "1 cup of milk (or plant-based alternative)",
+            "1 tablespoon of honey",
+            "Optional: 1/4 teaspoon of vanilla extract, a pinch of cinnamon"
+        ],
+        "instructions": [
+            "Prepare bananas: Peel and slice the bananas.",
+            "Blend: Add bananas, milk, honey, and any optional ingredients to a blender. Blend until smooth.",
+            "Serve: Pour into a glass and enjoy immediately."
+        ],
+        "nutrition": {
+            "calories": "180kcal",
+            "carbs": "35g",
+            "protein": "5g",
+            "fat": "2g",
+            "fiber": "3g",
+            "sugar": "20g",
+            "sodium": "50mg",
+            "cholesterol": "5mg"
+        }
+    },
+    {
+        "recipeName": "Classic French Toast Recipe",
+        "description": "A rich and golden breakfast classic made by dipping bread in a sweet egg mixture and frying to perfection.",
+        "preparationTime": {
+            "total": "Approximately 15 minutes",
+            "preparation": "5 minutes",
+            "cooking": "10 minutes"
+        },
+        "img": "/images/Classic_French_Toast_Recipe.webp",
+        "ingredients": [
+            "2 large eggs",
+            "1/2 cup of milk",
+            "1 teaspoon of vanilla extract",
+            "1 teaspoon of cinnamon",
+            "4 slices of bread",
+            "1 tablespoon of butter",
+            "Optional toppings: syrup, powdered sugar, fresh fruits"
+        ],
+        "instructions": [
+            "Prepare egg mixture: In a shallow bowl, whisk together eggs, milk, vanilla, and cinnamon.",
+            "Dip bread: Dip each slice of bread into the egg mixture, ensuring both sides are coated.",
+            "Cook: Heat butter in a skillet over medium heat. Cook the bread slices for 2-3 minutes per side until golden brown.",
+            "Serve: Serve hot with your choice of toppings."
+        ],
+        "nutrition": {
+            "calories": "240kcal",
+            "carbs": "30g",
+            "protein": "8g",
+            "fat": "10g",
+            "fiber": "2g",
+            "sugar": "8g",
+            "sodium": "200mg",
+            "cholesterol": "95mg"
+        }
+    }
+]
