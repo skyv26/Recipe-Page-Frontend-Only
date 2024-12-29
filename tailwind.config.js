@@ -27,7 +27,7 @@ export default {
       fontFamily: {
         'outfit': ["Outfit", 'serif'],
         'young_serif': ["Young Serif", "serif"],
-      }
+      },
     },
   },
   plugins: [],

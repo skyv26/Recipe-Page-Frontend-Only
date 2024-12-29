@@ -4,6 +4,43 @@
 
 @layer base {
   body {
-    @apply bg-stone100;
+    @apply bg-stone100 relative z-0;
   }
 }
+
+/* styles.css */
+.table-container {
+  background-color: transparent; /* Make container transparent */
+  padding: 20px;
+}
+
+.ant-table {
+  background-color: transparent !important; /* Make table background transparent */
+}
+
+.ant-table-thead > tr {
+  background-color: transparent !important; /* Make table header transparent */
+}
+
+.ant-table-tbody > tr {
+  background-color: transparent !important; /* Make table rows transparent */
+}
+
+.ant-table-tbody > tr:nth-child(odd) {
+  background-color: transparent !important; /* Ensure odd rows are transparent */
+}
+
+.ant-table-tbody > tr:nth-child(even) {
+  background-color: transparent !important; /* Ensure even rows are transparent */
+}
+
+.ant-table-cell {
+  background-color: transparent !important; /* Make table cells transparent */
+  @apply min-[375px]:!p-3;
+}
+
+.attribution { font-size: 11px; text-align: center; }
+.attribution a { color: hsl(228, 45%, 44%); }
+/* 
+.ant-table-tbody > tr:nth-child(even) {
+  background-color: transparent; /* Slightly darker background for even rows */

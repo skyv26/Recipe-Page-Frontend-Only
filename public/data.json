@@ -1,6 +1,6 @@
 [
     {
-        "recipe": "Simple Omelette Recipe",
+        "recipeName": "Simple Omelette Recipe",
         "description": "An easy and quick dish, perfect for any meal. This classic omelette combines beaten eggs cooked to perfection, optionally filled with your choice of cheese, vegetables, or meats.",
         "preparationTime": {
             "total": "Approximately 10 minutes",
@@ -31,14 +31,14 @@
         }
     },
     {
-        "recipe": "Classic Pancakes Recipe",
+        "recipeName": "Classic Pancakes Recipe",
         "description": "A fluffy and delightful breakfast treat, these classic pancakes are easy to make and perfect with syrup, butter, or fresh fruits.",
         "preparationTime": {
             "total": "Approximately 20 minutes",
             "preparation": "10 minutes",
             "cooking": "10 minutes"
         },
-        "img": "/images/classic_pancake.webp",
+        "img": "./images/classic_pancake.webp",
         "ingredients": [
             "1 cup of all-purpose flour",
             "2 tablespoons of sugar",
@@ -69,14 +69,14 @@
         }
     },
     {
-        "recipe": "Quick Veggie Stir-Fry Recipe",
+        "recipeName": "Quick Veggie Stir-Fry Recipe",
         "description": "A fast, nutritious dish loaded with fresh vegetables and savory flavors, perfect for lunch or dinner.",
         "preparationTime": {
             "total": "Approximately 15 minutes",
             "preparation": "5 minutes",
             "cooking": "10 minutes"
         },
-        "img": "/images/veggie_stir.webp",
+        "img": "./images/veggie_stir.webp",
         "ingredients": [
             "2 cups of mixed vegetables (e.g., bell peppers, broccoli, carrots, snap peas)",
             "1 tablespoon of soy sauce",
@@ -105,14 +105,14 @@
         }
     },
     {
-        "recipe": "Garlic Butter Shrimp Recipe",
+        "recipeName": "Garlic Butter Shrimp Recipe",
         "description": "Tender shrimp cooked in a flavorful garlic butter sauce, ready in minutes for a perfect appetizer or main dish.",
         "preparationTime": {
             "total": "Approximately 10 minutes",
             "preparation": "5 minutes",
             "cooking": "5 minutes"
         },
-        "img": "/images/garlic_butter_shrimp.webp",
+        "img": "./images/garlic_butter_shrimp.webp",
         "ingredients": [
             "1 pound of shrimp, peeled and deveined",
             "2 tablespoons of butter",
@@ -141,14 +141,14 @@
         }
     },
     {
-        "recipe": "Spaghetti Aglio e Olio Recipe",
+        "recipeName": "Spaghetti Aglio e Olio Recipe",
         "description": "A simple and aromatic Italian pasta dish made with garlic, olive oil, and a touch of chili flakes.",
         "preparationTime": {
             "total": "Approximately 20 minutes",
             "preparation": "5 minutes",
             "cooking": "15 minutes"
         },
-        "img": "/images/Spaghetti_Olio_Recipe.webp",
+        "img": "./images/Spaghetti_Olio_Recipe.webp",
         "ingredients": [
             "200g of spaghetti",
             "4 cloves of garlic, thinly sliced",
@@ -177,14 +177,14 @@
         }
     },
     {
-        "recipe": "Homemade Granola Recipe",
+        "recipeName": "Homemade Granola Recipe",
         "description": "A healthy and crunchy mix of oats, nuts, and honey, ideal for a wholesome breakfast or snack.",
         "preparationTime": {
             "total": "Approximately 30 minutes",
             "preparation": "10 minutes",
             "cooking": "20 minutes"
         },
-        "img": "/images/granola.webp",
+        "img": "./images/granola.webp",
         "ingredients": [
             "2 cups of rolled oats",
             "1/2 cup of chopped nuts (e.g., almonds, walnuts)",
@@ -214,14 +214,14 @@
         }
     },
     {
-        "recipe": "Classic Tomato Soup Recipe",
+        "recipeName": "Classic Tomato Soup Recipe",
         "description": "A comforting and creamy tomato soup, perfect for chilly days or a light meal. Serve with croutons or grilled cheese.",
         "preparationTime": {
             "total": "Approximately 30 minutes",
             "preparation": "10 minutes",
             "cooking": "20 minutes"
         },
-        "img": "/images/Classic_Tomato_Soup_image.webp",
+        "img": "./images/Classic_Tomato_Soup_image.webp",
         "ingredients": [
             "2 tablespoons of olive oil",
             "1 onion, chopped",
@@ -252,14 +252,14 @@
         }
     },
     {
-        "recipe": "Quick Avocado Toast Recipe",
+        "recipeName": "Quick Avocado Toast Recipe",
         "description": "A simple and healthy breakfast or snack option featuring creamy avocado on crispy bread with optional toppings.",
         "preparationTime": {
             "total": "Approximately 5 minutes",
             "preparation": "5 minutes",
             "cooking": "0 minutes"
         },
-        "img": "/images/Quick_Avocado_Toast_Recipe.webp",
+        "img": "./images/Quick_Avocado_Toast_Recipe.webp",
         "ingredients": [
             "1 ripe avocado",
             "2 slices of bread (toasted)",
@@ -285,14 +285,14 @@
         }
     },
     {
-        "recipe": "Grilled Chicken Salad Recipe",
+        "recipeName": "Grilled Chicken Salad Recipe",
         "description": "A fresh and protein-packed salad featuring grilled chicken, crisp greens, and a light dressing.",
         "preparationTime": {
             "total": "Approximately 25 minutes",
             "preparation": "10 minutes",
             "cooking": "15 minutes"
         },
-        "img": "/images/Grilled_Chicken_Salad_Recipe.webp",
+        "img": "./images/Grilled_Chicken_Salad_Recipe.webp",
         "ingredients": [
             "2 boneless, skinless chicken breasts",
             "4 cups of mixed greens (e.g., lettuce, spinach, arugula)",
@@ -323,14 +323,14 @@
         }
     },
     {
-        "recipe": "Banana Smoothie Recipe",
+        "recipeName": "Banana Smoothie Recipe",
         "description": "A creamy and nutritious smoothie made with bananas, milk, and a touch of honey. Great for breakfast or a snack.",
         "preparationTime": {
             "total": "Approximately 5 minutes",
             "preparation": "5 minutes",
             "cooking": "0 minutes"
         },
-        "img": "/images/Banana_Smoothie_Recipe.webp",
+        "img": "./images/Banana_Smoothie_Recipe.webp",
         "ingredients": [
             "2 ripe bananas",
             "1 cup of milk (or plant-based alternative)",
@@ -354,14 +354,14 @@
         }
     },
     {
-        "recipe": "Classic French Toast Recipe",
+        "recipeName": "Classic French Toast Recipe",
         "description": "A rich and golden breakfast classic made by dipping bread in a sweet egg mixture and frying to perfection.",
         "preparationTime": {
             "total": "Approximately 15 minutes",
             "preparation": "5 minutes",
             "cooking": "10 minutes"
         },
-        "img": "/images/Classic_French_Toast_Recipe.webp",
+        "img": "./images/Classic_French_Toast_Recipe.webp",
         "ingredients": [
             "2 large eggs",
             "1/2 cup of milk",
