@@ -45,7 +45,7 @@
 
 ### Key Features <a name="key-features"></a>
 
-> We can do swupe left or right to change the recipe.
+> The app allows users to swipe left or right to change the recipe.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
