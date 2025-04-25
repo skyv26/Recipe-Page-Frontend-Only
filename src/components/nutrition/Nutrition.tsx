@@ -4,7 +4,7 @@ const { Title } = Typography;
 
 const Nutrition = ({ nutrition }: { nutrition: NutritionProps }) => {
 
-  console.log(nutrition)
+ // console.log(nutrition)
   // Define columns for the Ant Design Table
   const columns = [
     {
